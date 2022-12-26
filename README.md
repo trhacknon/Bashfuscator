@@ -37,7 +37,7 @@ On a RHEL-based distro, run this command to install dependencies:
 Then, run these commands to clone and install Bashfuscator:
 
 ```bash
-git clone https://github.com/Bashfuscator/Bashfuscator
+git clone https://github.com/trhacknon/Bashfuscator
 cd Bashfuscator
 python3 setup.py install --user
 ```
